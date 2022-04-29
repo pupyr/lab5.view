@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	 <vehicle key="1" id="1" name="1" x="1.0" y="1.0" creationDate="2022-04-28T17:11:21.069Z" enginePower="1.0" numberOfWheels="1" VehicleType="CAR" FuelType="NUCLEAR"/>
+</root>
